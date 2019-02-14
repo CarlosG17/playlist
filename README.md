@@ -32,7 +32,7 @@
 
 ## Day 3
 ### JS
-- [ ] A working click handler
+-  ] A working click handler
 - [ ] Retrieve user input
 - [ ] Push items to your song array
 - [ ] Display the result to the screen
